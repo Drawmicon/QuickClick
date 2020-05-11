@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickClick</string>
+    <string name="timeLeft">Time Left: 20 s</string>
+    <string name="clickCounter">Number Of Clicks: 0</string>
+    <string name="clickHere1">Click Here!</string>
+    <string name="clickHere2">Start Game</string>
+    <string name="highScore">High Score: 0</string>
+</resources>
